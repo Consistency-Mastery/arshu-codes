@@ -1,2 +1,2 @@
-# arshu-codes
+# python-codes
 Codes I practice
